@@ -73,4 +73,4 @@ def welcome_message():
 
 
 if __name__ == "__main__":
-    welcome_success = welcome_message()
+    welcome_message()
